@@ -1,0 +1,28 @@
+body{
+    background-color: #ffc0cb;
+}
+
+h1{
+    color: red;
+}
+ul{
+    background-color: greenyellow;
+}
+li {
+    background-color: blue;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: fuchsia;
+    padding: 20px;
+}
+.f1 {
+    background-color: green;
+    border-radius: 50%;
+
+}
+.f2 {
+    background-color: blue;
+}
